@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225040128
+# Name: HIMADRI S
+# Date: 30/07/2026
 
 
 # AIM:
@@ -30,6 +30,8 @@ To develop the ATM and Banking System using Star UML
 
 
 # UML DIAGRAMS
+<img width="752" height="740" alt="image" src="https://github.com/user-attachments/assets/b96734c5-705a-42b6-bb86-4db5264a180e" />
+
 
 # USE CASE DIAGRAM
 
@@ -68,6 +70,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1163" height="733" alt="image" src="https://github.com/user-attachments/assets/f3b6e033-ed9f-4db2-9dd9-07c3549b9ab4" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -76,6 +79,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+<img width="1100" height="622" alt="image" src="https://github.com/user-attachments/assets/5e95d97d-1156-419c-8506-3c45edfd9097" />
 
 
 
@@ -89,6 +93,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="890" height="727" alt="image" src="https://github.com/user-attachments/assets/e5659999-b96c-45ee-b740-d3783812dfa8" />
 
 
 
@@ -105,6 +110,7 @@ Activity diagrams present a number of benefits to users. Consider creating an ac
 Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
+<img width="860" height="747" alt="image" src="https://github.com/user-attachments/assets/45c727a8-aed6-4e7d-a641-071e5a1924a2" />
 
 
 
@@ -126,6 +132,7 @@ Represent the details of UML use cases.
 Model the logic of a sophisticated procedure, function, or operation. See how objects and components interact with each other to complete a process.
 
 Plan and understand the detailed functionality of an existing or future scenario.
+<img width="1033" height="723" alt="image" src="https://github.com/user-attachments/assets/6c2aebe4-675a-49fd-bdba-c4c6cd2cac69" />
 
 
 
